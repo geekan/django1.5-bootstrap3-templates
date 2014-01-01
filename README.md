@@ -1,4 +1,6 @@
-django-registration-bootstrap3
+django1.5-bootstrap3-templates
 ==============================
 
-updated django-registration bootstrap templates
+Current templates:
+
+* registration and login
