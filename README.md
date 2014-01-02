@@ -1,7 +1,7 @@
 django1.5-bootstrap3-templates
 ==============================
 
-Here are all you should modified. Only a little files.
+Here are all you should modify. Only a little files.
 
 settings.py:
 =======
