@@ -9,6 +9,7 @@ settings.py:
 INSTALLED_APPS += (
     'django_bootstrap_example',
     'registration',
+    'crispy_forms',
 )
 
 ACCOUNT_ACTIVATION_DAYS=7
@@ -32,3 +33,4 @@ Just copy the `registration` folder and `base.html`.
 Test Email Auth
 =====
 `python -m smtpd -n -c DebuggingServer localhost:8025`
+
