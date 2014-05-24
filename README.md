@@ -34,3 +34,6 @@ Test Email Auth
 =====
 `python -m smtpd -n -c DebuggingServer localhost:8025`
 
+Tasks
+=====
+* [Partly] registration and login
